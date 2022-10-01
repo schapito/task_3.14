@@ -10,11 +10,9 @@ LICENSE: [MIT](license.md)
 **Содержание:**
 
 1. [Что такое  GIT?](/pages/aboutgit.md)
-2. [git add](/pages/add.md)
+2. [Настройка и конфигурация](/pages/setting.md)
+3. [Основные команды Git](/pages/commandlist.md)
 
-<h2> &#128526; </h2>
-
-2.1 vfvf
 
 
 ---
