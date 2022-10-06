@@ -11,3 +11,5 @@
 ```
 git mv file_from file_to
 ```
+
+[&#11013;](/pages/difftool.md) |  [&#10145;](/pages/reset.md)

@@ -13,3 +13,4 @@
 ```
 git add README
 ```
+[&#11013;](/pages/setting.md) |  [&#10145;](/pages/clean.md)

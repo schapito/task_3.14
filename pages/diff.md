@@ -15,3 +15,4 @@
     git diff <branch_name1> <branch_name2> <file_name>
     git diff <commit_hash> <commit_hash> <file_name>
 ```
+[&#11013;](/pages/commit.md) |  [&#10145;](/pages/difftool.md)
